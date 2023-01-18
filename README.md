@@ -11,9 +11,9 @@
 ![jquery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.JS-026E00?style=for-the-badge&logo=node.js&logoColor=white)
 ![scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 
 ### Bancos de Dados:
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
